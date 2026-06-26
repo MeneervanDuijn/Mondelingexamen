@@ -1,0 +1,5 @@
+{
+  "name": "Mondeling Trainer Maatschappijleer VMBO",
+  "description": "Een interactieve AI-examinator die VMBO-leerlingen helpt bij het oefenen voor hun mondeling examen maatschappijleer met spraakondersteuning en directe feedback.",
+  "requestFramePermissions": ["microphone"]
+}
